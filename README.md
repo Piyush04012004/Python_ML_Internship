@@ -1,2 +1,3 @@
 # Python_ML_Internship
-Thus is my first git Repository.
+This is my first git Repository.
+Author - Piyush Singhal
